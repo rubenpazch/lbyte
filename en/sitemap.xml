@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>/en/categories/</loc><xhtml:link rel="alternate" hreflang="es-pe" href="/categories/"/><xhtml:link rel="alternate" hreflang="en-us" href="/en/categories/"/></url><url><loc>/en/</loc><xhtml:link rel="alternate" hreflang="es-pe" href="/"/><xhtml:link rel="alternate" hreflang="en-us" href="/en/"/></url><url><loc>/en/tags/</loc><xhtml:link rel="alternate" hreflang="es-pe" href="/tags/"/><xhtml:link rel="alternate" hreflang="en-us" href="/en/tags/"/></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:1313/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-pe"
+                href="//localhost:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/categories/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-pe"
+                href="//localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-pe"
+                href="//localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/"
+                />
+  </url>
+</urlset>

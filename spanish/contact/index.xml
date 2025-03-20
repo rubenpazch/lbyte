@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on LByte</title>
+    <link>//localhost:1313/spanish/contact/</link>
+    <description>Recent content in Contact on LByte</description>
+    <generator>Hugo</generator>
+    <language>es-pe</language>
+    <atom:link href="//localhost:1313/spanish/contact/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
