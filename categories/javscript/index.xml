@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Javscript on LByte</title><link>/categories/javscript/</link><description>Recent content in Javscript on LByte</description><generator>Hugo</generator><language>es-pe</language><lastBuildDate>Sat, 19 Mar 2022 05:00:00 +0000</lastBuildDate><atom:link href="/categories/javscript/index.xml" rel="self" type="application/rss+xml"/><item><title>Tic Tac Toe with javascript + HTML basic usacase</title><link>/blog/tic-tac-toe-with-javascript/</link><pubDate>Sat, 19 Mar 2022 05:00:00 +0000</pubDate><guid>/blog/tic-tac-toe-with-javascript/</guid><description>&lt;h3 id="-análisis-del-problema">📌 Análisis del Problema&lt;/h3>
-&lt;p>Tic-Tac-Toe es un juego de dos jugadores que alternan turnos para colocar sus marcas (&amp;ldquo;X&amp;rdquo; o &amp;ldquo;O&amp;rdquo;) en una cuadrícula de 3x3. El objetivo es lograr tres en línea (horizontal, vertical o diagonal) antes que el oponente.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javscript on LByte</title>
+    <link>//localhost:1313/categories/javscript/</link>
+    <description>Recent content in Javscript on LByte</description>
+    <generator>Hugo</generator>
+    <language>es-pe</language>
+    <lastBuildDate>Sat, 19 Mar 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/javscript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tic Tac Toe with javascript &#43; HTML basic usacase</title>
+      <link>//localhost:1313/blog/tic-tac-toe-with-javascript/</link>
+      <pubDate>Sat, 19 Mar 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/tic-tac-toe-with-javascript/</guid>
+      <description>&lt;h3 id=&#34;-análisis-del-problema&#34;&gt;📌 Análisis del Problema&lt;/h3&gt;&#xA;&lt;p&gt;Tic-Tac-Toe es un juego de dos jugadores que alternan turnos para colocar sus marcas (&amp;ldquo;X&amp;rdquo; o &amp;ldquo;O&amp;rdquo;) en una cuadrícula de 3x3. El objetivo es lograr tres en línea (horizontal, vertical o diagonal) antes que el oponente.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
